@@ -1,1 +1,1 @@
-# exercise-client-side-rendering
+# client-side-rendering-exercise
